@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JingyueCong
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on kaggle competition
+- 👀 I’m interested in AI
 - 📫 How to reach me :via email: echocong0623@gmail.com
 
 <!---
