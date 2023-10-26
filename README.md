@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JingyueCong
-- 👀 I’m interested in AI
 - 📫 How to reach me :via email: echocong0623@gmail.com
 
 <!---
